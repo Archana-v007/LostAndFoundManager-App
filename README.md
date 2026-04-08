@@ -69,5 +69,5 @@ To develop a simple mobile application that helps users manage lost and found it
 
 ---
 
-## 📄 License
+## License
 This project is for educational purposes.
