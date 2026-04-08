@@ -1,35 +1,24 @@
-# LostAndFoundManager-App
-A simple Android application developed using Java in Android Studio for managing lost and found items. The app allows users to report lost items, add found items, search and filter entries, and view contact details of item owners. It uses SQLite for local data storage and includes multiple screens with user-friendly forms and a ListView interface.
-# 📱 Lost and Found Manager App
+# Lost and Found Manager App
 
 A simple Android application developed using Java in Android Studio for managing lost and found items. This app allows users to report lost items, add found items, search and filter entries, and view contact details of item owners.
 
----
-
-## 👩‍💻 Team Members
-- Archana  
-- Bhumika  
-- Veena  
-
----
-
-## 🚀 Features
-- 📌 Report lost items  
-- 📌 Add found items  
-- 📌 Search and filter items  
-- 📌 Contact owner (via stored contact details)  
-- 📌 Simple and user-friendly interface  
+##  Features
+-  Report lost items  
+-  Add found items  
+-  Search and filter items  
+-  Contact owner (via stored contact details)  
+-  Simple and user-friendly interface  
 
 ---
 
-## 📱 Screens
+## Screens
 1. Home Screen  
 2. Add Item Screen (Lost/Found form)  
 3. View Items Screen (ListView + Search)  
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Java  
 - Android Studio  
 - SQLite Database  
@@ -37,7 +26,7 @@ A simple Android application developed using Java in Android Studio for managing
 
 ---
 
-## 💾 Storage
+## Storage
 - Uses SQLite for local data storage  
 - Stores item details like:
   - Name  
@@ -49,7 +38,7 @@ A simple Android application developed using Java in Android Studio for managing
 
 ---
 
-## 🔍 How It Works
+##  How It Works
 1. User adds item details through a form  
 2. Data is stored in SQLite database  
 3. Items are displayed in a ListView  
@@ -58,7 +47,7 @@ A simple Android application developed using Java in Android Studio for managing
 
 ---
 
-## ▶️ How to Run the Project
+##  How to Run the Project
 1. Open Android Studio  
 2. Click on **Open Project**  
 3. Select the project folder  
@@ -67,17 +56,12 @@ A simple Android application developed using Java in Android Studio for managing
 
 ---
 
-## 📸 Screenshots (Optional)
-_Add screenshots of your app here_
-
----
-
-## 🎯 Project Objective
+##  Project Objective
 To develop a simple mobile application that helps users manage lost and found items efficiently using local storage and basic Android components.
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 - Add call button for contacting owner  
 - Improve UI with modern design  
 - Add image upload for items  
